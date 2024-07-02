@@ -1,0 +1,11 @@
+[
+	{
+		"Theater" : "Theater1",
+		"Date" : "2024-03-21",
+		"Time" :"09:30:00",
+		"title" : "movie1",
+		"showId" : 1,
+		"seatsBooked" : 2,
+		"TheaterId" : "1"
+	}
+]

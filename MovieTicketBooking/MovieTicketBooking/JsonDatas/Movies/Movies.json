@@ -1,0 +1,12 @@
+[
+	{
+		"title": "Movie2",
+		"genre" : "Comedy",
+		"ticket" : 200
+	},
+	{
+		"title": "Movie3",
+		"genre" : "Action",
+		"ticket" : 150
+	}
+]
